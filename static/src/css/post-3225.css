@@ -1,0 +1,146 @@
+.elementor-3225 .elementor-element.elementor-element-50dddff0 {
+    padding: 100px 50px 50px 50px;
+}
+
+.elementor-3225 .elementor-element.elementor-element-326b3c44 {
+    text-align: left;
+}
+
+.elementor-3225 .elementor-element.elementor-element-326b3c44 img {
+    max-width: 250px;
+}
+
+.elementor-3225 .elementor-element.elementor-element-e0a446a > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-3225 .elementor-element.elementor-element-2d60ef96 .elementor-heading-title {
+    font-family: "Mark Bold", Sans-serif;
+    font-weight: 700;
+}
+
+.elementor-3225 .elementor-element.elementor-element-64d18c7e .elementor-heading-title {
+    font-family: "Mark Medium", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-3225 .elementor-element.elementor-element-4a02820 {
+    --spacer-size: 20px;
+}
+
+.elementor-3225 .elementor-element.elementor-element-612ac7b8 {
+    color: #5B4F70;
+}
+
+#elementor-popup-modal-3225 .dialog-message {
+    width: 80vw;
+    height: auto;
+}
+
+#elementor-popup-modal-3225 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+#elementor-popup-modal-3225 .dialog-close-button {
+    display: flex;
+    font-size: 30px;
+}
+
+#elementor-popup-modal-3225 .dialog-widget-content {
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+#elementor-popup-modal-3225 .dialog-close-button i {
+    color: var(--e-global-color-primary);
+}
+
+#elementor-popup-modal-3225 .dialog-close-button svg {
+    fill: var(--e-global-color-primary);
+}
+
+@media (max-width: 1024px) {
+    .elementor-3225 .elementor-element.elementor-element-326b3c44 {
+        text-align: left;
+    }
+
+    .elementor-3225 .elementor-element.elementor-element-326b3c44 img {
+        width: 100%;
+        max-width: 250px;
+    }
+
+    #elementor-popup-modal-3225 .dialog-close-button {
+        font-size: 30px;
+    }
+
+    #elementor-popup-modal-3225 .dialog-widget-content {
+        margin: 215px 0px 0px 0px;
+    }
+}
+
+@media (min-width: 768px) {
+    .elementor-3225 .elementor-element.elementor-element-62f7e97 {
+        width: 33%;
+    }
+
+    .elementor-3225 .elementor-element.elementor-element-e0a446a {
+        width: 67%;
+    }
+}
+
+@media (max-width: 1024px) and (min-width: 768px) {
+    .elementor-3225 .elementor-element.elementor-element-62f7e97 {
+        width: 100%;
+    }
+
+    .elementor-3225 .elementor-element.elementor-element-e0a446a {
+        width: 100%;
+    }
+}
+
+@media (max-width: 767px) {
+    .elementor-3225 .elementor-element.elementor-element-50dddff0 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px 20px 20px 20px;
+    }
+
+    .elementor-3225 .elementor-element.elementor-element-2d60ef96 .elementor-heading-title {
+        font-size: 2.6em;
+    }
+
+    #elementor-popup-modal-3225 .dialog-message {
+        width: 90vw;
+    }
+
+    #elementor-popup-modal-3225 .dialog-close-button {
+        font-size: 30px;
+    }
+
+    #elementor-popup-modal-3225 .dialog-widget-content {
+        margin: 190px 0px 0px 0px;
+    }
+}
+
+/* Start custom CSS for text-editor, class: .elementor-element-612ac7b8 */
+.elementor-3225 .elementor-element.elementor-element-612ac7b8 {
+    max-height: 400px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.elementor-3225 .elementor-element.elementor-element-612ac7b8::-webkit-scrollbar {
+    width: 10px;
+}
+
+.elementor-3225 .elementor-element.elementor-element-612ac7b8::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.elementor-3225 .elementor-element.elementor-element-612ac7b8::-webkit-scrollbar-thumb {
+    background: #06003F;
+}
+
+/* End custom CSS */

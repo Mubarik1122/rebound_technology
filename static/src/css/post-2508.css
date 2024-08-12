@@ -1,0 +1,200 @@
+.elementor-2508 .elementor-element.elementor-element-67a24279 {
+    padding: 100px 50px 50px 50px;
+}
+
+.elementor-2508 .elementor-element.elementor-element-543871be {
+    text-align: left;
+}
+
+.elementor-2508 .elementor-element.elementor-element-543871be img {
+    max-width: 250px;
+}
+
+.elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(5px / 2);
+}
+
+.elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(5px / 2);
+}
+
+.elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(5px / 2);
+    margin-left: calc(5px / 2);
+}
+
+.elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-5px / 2);
+    margin-left: calc(-5px / 2);
+}
+
+body.rtl .elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-5px / 2);
+}
+
+body:not(.rtl) .elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-5px / 2);
+}
+
+.elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-2508 .elementor-element.elementor-element-2e0b4f7 {
+    --e-icon-list-icon-size: 20px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-item > a {
+    font-family: "Mark Medium", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-text {
+    color: var(--e-global-color-primary);
+    transition: color 0.3s;
+}
+
+.elementor-2508 .elementor-element.elementor-element-32f1b4c8 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-2508 .elementor-element.elementor-element-35d9401b .elementor-heading-title {
+    font-family: "Mark Bold", Sans-serif;
+    font-weight: 700;
+}
+
+.elementor-2508 .elementor-element.elementor-element-3f76749 .elementor-heading-title {
+    font-family: "Mark Medium", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-2508 .elementor-element.elementor-element-2a2625ff {
+    --spacer-size: 20px;
+}
+
+.elementor-2508 .elementor-element.elementor-element-8fbfe24 {
+    color: #5B4F70;
+}
+
+#elementor-popup-modal-2508 .dialog-message {
+    width: 80vw;
+    height: auto;
+}
+
+#elementor-popup-modal-2508 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+#elementor-popup-modal-2508 .dialog-close-button {
+    display: flex;
+    font-size: 30px;
+}
+
+#elementor-popup-modal-2508 .dialog-widget-content {
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+#elementor-popup-modal-2508 .dialog-close-button i {
+    color: var(--e-global-color-primary);
+}
+
+#elementor-popup-modal-2508 .dialog-close-button svg {
+    fill: var(--e-global-color-primary);
+}
+
+@media (max-width: 1024px) {
+    .elementor-2508 .elementor-element.elementor-element-543871be {
+        text-align: left;
+    }
+
+    .elementor-2508 .elementor-element.elementor-element-543871be img {
+        width: 100%;
+        max-width: 250px;
+    }
+
+    #elementor-popup-modal-2508 .dialog-close-button {
+        font-size: 30px;
+    }
+
+    #elementor-popup-modal-2508 .dialog-widget-content {
+        margin: 215px 0px 0px 0px;
+    }
+}
+
+@media (min-width: 768px) {
+    .elementor-2508 .elementor-element.elementor-element-164c69b4 {
+        width: 33.022%;
+    }
+
+    .elementor-2508 .elementor-element.elementor-element-32f1b4c8 {
+        width: 66.978%;
+    }
+}
+
+@media (max-width: 1024px) and (min-width: 768px) {
+    .elementor-2508 .elementor-element.elementor-element-164c69b4 {
+        width: 100%;
+    }
+
+    .elementor-2508 .elementor-element.elementor-element-32f1b4c8 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 767px) {
+    .elementor-2508 .elementor-element.elementor-element-67a24279 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px 20px 20px 20px;
+    }
+
+    .elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-2508 .elementor-element.elementor-element-2e0b4f7 .elementor-icon-list-item > a {
+        font-size: 15px;
+    }
+
+    .elementor-2508 .elementor-element.elementor-element-35d9401b .elementor-heading-title {
+        font-size: 2.6em;
+    }
+
+    #elementor-popup-modal-2508 .dialog-message {
+        width: 90vw;
+    }
+
+    #elementor-popup-modal-2508 .dialog-close-button {
+        font-size: 30px;
+    }
+
+    #elementor-popup-modal-2508 .dialog-widget-content {
+        margin: 190px 0px 0px 0px;
+    }
+}
+
+/* Start custom CSS for text-editor, class: .elementor-element-8fbfe24 */
+.elementor-2508 .elementor-element.elementor-element-8fbfe24 {
+    max-height: 400px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.elementor-2508 .elementor-element.elementor-element-8fbfe24::-webkit-scrollbar {
+    width: 10px;
+}
+
+.elementor-2508 .elementor-element.elementor-element-8fbfe24::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.elementor-2508 .elementor-element.elementor-element-8fbfe24::-webkit-scrollbar-thumb {
+    background: #06003F;
+}
+
+/* End custom CSS */

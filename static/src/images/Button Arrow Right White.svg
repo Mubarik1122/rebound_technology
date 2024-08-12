@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Controls/Buttons/Button Arrow Right Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Controls/Buttons/Button-Arrow-Right-Copy-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(20.000000, 20.000000) scale(-1, 1) translate(-20.000000, -20.000000) " fill="#F4F0FF" fill-rule="nonzero">
+            <path d="M20,40 C8.954305,40 0,31.045695 0,20 C0,8.954305 8.954305,0 20,0 C31.045695,0 40,8.954305 40,20 C40,31.045695 31.045695,40 20,40 Z M10.8025755,19 L15.9570425,13.4270496 C16.1220633,13.2484958 16.1220633,12.9590362 15.9570425,12.7804825 L15.3590548,12.1339153 C15.1940341,11.9553616 14.9260879,11.9553616 14.7610672,12.1339153 L8.24785015,19.1766652 C7.91738328,19.5337727 7.91738328,20.1126919 8.24785015,20.4697995 L14.7610672,27.5125493 C14.9260879,27.6911031 15.1940341,27.6911031 15.3590548,27.5125493 L15.9570425,26.8659822 C16.1220633,26.6874284 16.1220633,26.3979688 15.9570425,26.219415 L11.129929,21 L32,21 L32,19 L10.8025755,19 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

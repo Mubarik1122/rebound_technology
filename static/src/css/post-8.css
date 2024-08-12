@@ -1,0 +1,274 @@
+.elementor-8 .elementor-element.elementor-element-dcfdae8:not(.elementor-motion-effects-element-type-background), .elementor-8 .elementor-element.elementor-element-dcfdae8 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #3d01b1;
+}
+
+.elementor-8 .elementor-element.elementor-element-dcfdae8 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 100px 0px 100px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-dcfdae8 > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-8 .elementor-element.elementor-element-4de64be.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-4de64be.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-bc-flex-widget .elementor-8 .elementor-element.elementor-element-4cd5a9c.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-4cd5a9c.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-4cd5a9c > .elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9 .uael-post-grid .uael-post-wrapper {
+    margin-bottom: 25px;
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9 .uael-post-wrapper {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9 .uael-post__bg-wrap {
+    background-color: #F6F6F600;
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9 .uael-post__content-wrap {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9 .uael-post__datebox:not(.uael-post__noimage) {
+    width: 50px;
+    height: 50px;
+    margin-top: calc(-50px / 2);
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9 .uael-post__datebox.uael-post__noimage {
+    width: 50px;
+    height: 50px;
+    margin-top: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9 .uael-post__datebox {
+    color: #ffffff;
+    background-color: #06003F00;
+    font-family: "Reader Regular", Sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9 .uael-post__title, .elementor-8 .elementor-element.elementor-element-61f20f9 .uael-post__title a {
+    color: var(--e-global-color-4334c85);
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9 .uael-post__title:hover, .elementor-8 .elementor-element.elementor-element-61f20f9 .uael-post__title a:hover {
+    color: var(--e-global-color-4334c85);
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9.uael-post__link-complete-yes .uael-post__complete-box-overlay:hover + .uael-post__inner-wrap .uael-post__title a {
+    color: var(--e-global-color-4334c85);
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9 .uael-post__title {
+    font-family: "Mark Medium", Sans-serif;
+    font-size: 46px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+
+.elementor-8 .elementor-element.elementor-element-61f20f9 a.uael-post__read-more {
+    color: #ffffff;
+    background-color: var(--e-global-color-0668127);
+    border-radius: 50px 50px 50px 50px;
+    padding: 15px 26px 15px 26px;
+    font-family: "Mark Bold", Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9 a.uael-post__read-more:hover {
+    color: var(--e-global-color-0668127);
+    background-color: var(--e-global-color-4334c85);
+}
+
+.elementor-8 .elementor-element.elementor-element-61f20f9.uael-post__link-complete-yes .uael-post__complete-box-overlay:hover + .uael-post__inner-wrap a.uael-post__read-more {
+    color: var(--e-global-color-0668127);
+    background-color: var(--e-global-color-4334c85);
+}
+
+.elementor-8 .elementor-element.elementor-element-de2e8a2 {
+    padding: 100px 0px 100px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post-grid .uael-post-wrapper {
+    padding-right: calc(50px / 2);
+    padding-left: calc(50px / 2);
+    margin-bottom: 50px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post-grid .uael-post-grid__inner {
+    margin-left: calc(-50px / 2);
+    margin-right: calc(-50px / 2);
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post-wrapper {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post__bg-wrap {
+    background-color: #f6f6f6;
+    border-style: solid;
+    border-width: 4px 0px 0px 0px;
+    border-color: var(--e-global-color-f697375);
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post__content-wrap {
+    padding: 25px 30px 30px 30px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post__datebox:not(.uael-post__noimage) {
+    width: 60px;
+    height: 60px;
+    margin-top: calc(-60px / 2);
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post__datebox.uael-post__noimage {
+    width: 60px;
+    height: 60px;
+    margin-top: 25px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post__datebox {
+    color: var(--e-global-color-text);
+    background-color: #06003F00;
+    font-family: "Mark Medium", Sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post-inf-loader > div {
+    width: 18px;
+    height: 18px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post__title, .elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post__title a {
+    color: var(--e-global-color-a04a43f);
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post__title:hover, .elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post__title a:hover {
+    color: var(--e-global-color-f697375);
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e.uael-post__link-complete-yes .uael-post__complete-box-overlay:hover + .uael-post__inner-wrap .uael-post__title a {
+    color: var(--e-global-color-f697375);
+}
+
+.elementor-8 .elementor-element.elementor-element-ce3bc6e .uael-post__title {
+    font-family: "Mark Medium", Sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.elementor-8 .elementor-element.elementor-element-48eca01:not(.elementor-motion-effects-element-type-background), .elementor-8 .elementor-element.elementor-element-48eca01 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: var(--e-global-color-a04a43f);
+}
+
+.elementor-8 .elementor-element.elementor-element-48eca01 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-48eca01 > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-d106fc2 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-d106fc2 > .elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-0e18492 {
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .elementor-8 .elementor-element.elementor-element-4de64be {
+        width: 40%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-4cd5a9c {
+        width: 60%;
+    }
+}
+
+/* Start Custom Fonts CSS */
+@font-face {
+    font-family: 'Reader Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-display: auto;
+    src: url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Reader-Regular.eot');
+    src: url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Reader-Regular.eot?#iefix') format('embedded-opentype'),
+    url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Reader-Regular.woff2') format('woff2'),
+    url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Reader-Regular.woff') format('woff'),
+    url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Reader-Regular.ttf') format('truetype'),
+    url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Reader-Regular.svg#ReaderRegular') format('svg');
+}
+
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */
+@font-face {
+    font-family: 'Mark Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto;
+    src: url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Mark-Medium.eot');
+    src: url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Mark-Medium.eot?#iefix') format('embedded-opentype'),
+    url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Mark-Medium.woff2') format('woff2'),
+    url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Mark-Medium.woff') format('woff'),
+    url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Mark-Medium.ttf') format('truetype'),
+    url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Mark-Medium.svg#MarkMedium') format('svg');
+}
+
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */
+@font-face {
+    font-family: 'Mark Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-display: auto;
+    src: url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Mark-Bold.eot');
+    src: url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Mark-Bold.eot?#iefix') format('embedded-opentype'),
+    url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Mark-Bold.woff2') format('woff2'),
+    url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Mark-Bold.woff') format('woff'),
+    url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Mark-Bold.ttf') format('truetype'),
+    url('https://www.rebound-tech.com/wp-content/themes/rebound/fonts/Mark-Bold.svg#MarkBold') format('svg');
+}
+
+/* End Custom Fonts CSS */

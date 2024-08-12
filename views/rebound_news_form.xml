@@ -1,0 +1,45 @@
+<odoo>
+    <!-- explicit list view definition -->
+    <record model="ir.ui.view" id="rebound_view_id">
+      <field name="name">Rebound News</field>
+      <field name="model">rebound_technology.news</field>
+      <field name="arch" type="xml">
+        <tree>
+            <field name="sequence" widget="handle"/>
+          <field name="name" string="Title"/>
+          <field name="date" string="Date"/>
+          <field name="news_type"/>
+          <field name="link" string="Link"/>
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="rebound_form_view_id">
+      <field name="name">Rebound News</field>
+      <field name="model">rebound_technology.news</field>
+      <field name="arch" type="xml">
+        <form>
+            <group>
+                <field name="name" string="Title"/>
+                <field name="date" string="Date"/>
+                <field name="news_type" string="News Type"/>
+                <field name="link" string="Link" invisible="news_type == 'content'"/>
+                <field name="description" string="Description" invisible="news_type == 'link'"/>
+            </group>
+
+        </form>
+      </field>
+    </record>
+
+    <!-- actions opening views on models -->
+    <record model="ir.actions.act_window" id="rebound_act_id">
+      <field name="name">Rebound News</field>
+      <field name="res_model">rebound_technology.news</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- Top menu item -->
+    <menuitem name="Rebound News" id="rebound_news_id" sequence="90" web_icon="rebound_technology,static/src/images/Shape2.png"/>
+    <menuitem name="News" id="rebound_news_sub_id" parent="rebound_news_id" sequence="10" action="rebound_technology.rebound_act_id"/>
+
+</odoo>
